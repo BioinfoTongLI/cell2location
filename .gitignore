@@ -40,3 +40,7 @@ samples_*.p
 histo_W_*.png
 docs/notebooks/results
 ./notebooks/
+
+*un~
+*.swp
+.nextflow*
