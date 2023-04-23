@@ -44,3 +44,6 @@ docs/notebooks/results
 *un~
 *.swp
 .nextflow*
+nextflow/work/
+nextflow/output/
+
